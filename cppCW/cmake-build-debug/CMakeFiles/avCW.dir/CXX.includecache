@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hamzamalik/CLionProjects/avCW/source/election.h
+vote.h
+/Users/hamzamalik/CLionProjects/avCW/source/vote.h
+
+/Users/hamzamalik/CLionProjects/avCW/source/main.cpp
+iostream
+-
+fstream
+-
+vote.h
+/Users/hamzamalik/CLionProjects/avCW/source/vote.h
+election.h
+/Users/hamzamalik/CLionProjects/avCW/source/election.h
+vector
+-
+
+/Users/hamzamalik/CLionProjects/avCW/source/vote.h
+vector
+-
+

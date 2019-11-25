@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/avCW.dir/source/main.cpp.o CMakeFiles/avCW.dir/source/vote.cpp.o CMakeFiles/avCW.dir/source/election.cpp.o  -o avCW 

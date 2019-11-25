@@ -1,0 +1,3 @@
+/Users/hamzamalik/CLionProjects/avCW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hamzamalik/CLionProjects/avCW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hamzamalik/CLionProjects/avCW/cmake-build-debug/CMakeFiles/avCW.dir
